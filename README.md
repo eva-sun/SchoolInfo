@@ -2,11 +2,6 @@
 ## 大学
 * [116所211高校](211-schools.md)
 
-某空军学生：
-要想走这条路，需要考虑好这样几点：
-1. 指挥类不允许直接考研，要符合一定条件才能考研究生
-2. 军队院校就业容易，但部队也不会养所有人一辈子，军衔升不上去很难在军队退休，很多人会面临中年转业的挑战
-3. 家庭平衡，婚恋问题
 ## 专业
 * 专业小锦囊
     >- [1.车辆工程专业](Majors/vehicle-engineering.md)
@@ -21,6 +16,7 @@
     >- [10.外交学](Majors/diplomacy.md)
     >- [11.学前教育](Majors/preschool-education.md)
     >- [12.微电子科学与工程](Majors/microelectronics-science-and-engineering.md)
+* [其他](Majors/other.md)
 
 
 
